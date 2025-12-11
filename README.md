@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 你好👋👋，我是拾瑜，一名充满热情的开发者，感谢您访问我的主页。
 - 擅长语言: Java...
-- 现状: 目前在 `AI应用` 方向探索，[一点小积累](https://github.com/NGshiyu/magic-gate)
+- 现状: 目前在 `AI应用` 方向探索💪💪💪💪  --[一点小积累](https://github.com/NGshiyu/magic-gate)
 - 我的博客: [Blog](https://ngshiyu.github.io/) 
