@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 你好👋👋，我是拾瑜，一名充满热情的开发者，感谢您访问我的主页🥂🥂🥂。
 - 目前在 `AI应用` 方向探索💪💪💪💪
 - [一点小积累](https://github.com/NGshiyu/magic-gate)
-- [Blog](https://ngshiyu.github.io/) 
+- [Blog](https://ngshiyu.github.io/blog) 
